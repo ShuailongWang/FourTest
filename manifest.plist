@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.example.com/image.57.png</string>
+					<string>https://github.com/ShuailongWang/FourTest/blob/master/image_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.example.com/image.512.png</string>
+					<string>https://github.com/ShuailongWang/FourTest/blob/master/image_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
