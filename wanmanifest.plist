@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.newbreed.SGProNet</string>
+				<string>com.rey.proxy</string>
 				<key>bundle-version</key>
 				<string>1.14</string>
 				<key>kind</key>
