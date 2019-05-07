@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://download.sealjsq.com/tianxing/ios/1.12/Icon-57.png</string>
+					<string>http://download.sealjsq.com/tianxing/ios/1.11/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://download.sealjsq.com/tianxing/ios/1.12/Icon-512.png</string>
+					<string>http://download.sealjsq.com/tianxing/ios/1.11/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.orilin.OrionRateLine</string>
 				<key>bundle-version</key>
-				<string>1.01</string>
+				<string>1.11</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
