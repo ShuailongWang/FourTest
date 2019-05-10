@@ -11,27 +11,27 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.sealjsq.com/sgreen/ios/1.14/SGreen.ipa</string>
+					<string>http://download.sealjsq.com/sgreen/ios/1.19/SGreen.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://download.sealjsq.com/sgreen/ios/1.14/icon_57.png</string>
+					<string>http://download.sealjsq.com/sgreen/ios/1.19/icon_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://download.sealjsq.com/sgreen/ios/1.14/icon_512.png</string>
+					<string>http://download.sealjsq.com/sgreen/ios/1.19/icon_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rey.proxy</string>
+				<string>com.bbddcc.abfs</string>
 				<key>bundle-version</key>
-				<string>1.14</string>
+				<string>1.19</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
