@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.sealjsq.com/sgreen/ios/1.21/SGreen.ipa</string>
+					<string>http://download.sealjsq.com/sgreen/ios/1.24/SGreen.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bbddcc.abfs</string>
+				<string>com.newbreed.SGreen</string>
 				<key>bundle-version</key>
 				<string>1.24</string>
 				<key>kind</key>
