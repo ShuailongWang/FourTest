@@ -1,0 +1,13 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				//TeamID+BundleId的组成
+				"appID": "537324ZSZ4.com.together.feng",
+				//允许的路径列表，可以是一个也可以是多个，最简单的方式是使用“*”，通配符，表示允许该域名下的任意路径
+				"paths": [ "*" ]
+			}
+		]
+	}
+}
