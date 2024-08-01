@@ -68,7 +68,7 @@
 The "Hello, World" program is often the first program learned by programmers in various programming languages. It typically prints or displays the text "Hello, World" to the console or screen. Here's a compilation of the Hello, World programs in different languages:
 
 | Language    | Code |
-|||
+| ---- | ---------- |
 | Assembly    | ```bash
 bdos equ 0005H
 ; BDOS entry point
