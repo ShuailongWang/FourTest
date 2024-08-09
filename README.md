@@ -139,7 +139,9 @@ These are just a few examples of the many programming languages available. Each 
 
 
 
-
+\begin{align*}
+\frac{x^2 + 1}{x^4 + 1}&=\frac{1 + \frac{1}{x^2}}{x^2 + \frac{1}{x^2}}\\
+\end{align*}
 
 
 
