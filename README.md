@@ -1,12 +1,12 @@
 ---
 AIGC:
-    Label: {label}
-    ContentProducer: {content_producer}
-    ProduceID: {produce_id}
-    ReservedCode1: {reserved_code1}
-    ContentPropagator: {content_producer}
-    PropagateID: {produce_id}
-    ReservedCode2: {reserved_code1}
+    Label: 11
+    ContentProducer: 22
+    ProduceID: 33
+    ReservedCode1: 44
+    ContentPropagator: 55
+    PropagateID: 66
+    ReservedCode2: 77
 ---
 
 | First Header  | Second Header |
@@ -126,6 +126,7 @@ AIGC:
 
 ## 🍎中国苹果税全球居首
 中国苹果税全球最高。标准企业中国抽成30%，高于美欧韩，小型企业中国抽成15%也高于他国。这使开发者利润压缩、运营受限、面临黑产亏损，消费者付费成本增加。他国已调整，中国期待同步反垄断调查来改变现状。
+
 
 
 
